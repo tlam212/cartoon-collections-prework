@@ -28,8 +28,7 @@ def find_the_cheese(array)
       cheese.first
     end
   
-  else
-    nil 
+  
   end
 end
   
